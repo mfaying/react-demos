@@ -3,7 +3,7 @@ import ReactDom from "react-dom";
 
 class App extends Component {
   render() {
-    var style = {
+    const style = {
       color: "red"
     };
     return (

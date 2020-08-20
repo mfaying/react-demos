@@ -5,7 +5,7 @@ module.exports = {
   mode: "development",
   entry: {
     // 修改入口文件即可调试不同文件下的代码
-    app: "./src/01/index.jsx"
+    app: "./src/02/index.jsx"
   },
   output: {
     path: path.resolve(__dirname, "dist"),
